@@ -5,6 +5,7 @@ I am Mausumi Meher working an index specialist with a passion for data, I have a
 In my professional experience, I have worked with a variety of financial data, including market data, index data, and portfolio data. I have also worked on the development and maintenance of index methodologies, including the selection and weighting of index components, as well as the ongoing monitoring of index performance.
 
 ## languages and tools:
+![python](https://user-images.githubusercontent.com/98810351/224503031-d50f5eb2-dee7-474b-80ca-68d512ffcdd0.png)
 
 
 
