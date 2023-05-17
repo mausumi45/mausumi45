@@ -7,6 +7,7 @@ Data Analyst
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [mausumimeher45@gmail.com](mailto:mausumimeher45@gmail.com)
 * 🤝  I'm open to collaborating on Analytics Projects.
+* 
 
 <a href="https://www.github.com/mausumi45" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mausumi45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
